@@ -193,3 +193,85 @@ It is designed to allow analysis across areas such as:
 │
 └── data/
     └── Dataset information
+
+## 👩‍💻 My Contribution
+
+This was a collaborative team project completed as **SOS Squad 4**.
+
+My contribution included:
+
+- Data analysis and interpretation
+- Power BI dashboard development
+- Data modelling using a star-schema approach
+- Developing and reviewing analytical measures
+- Identifying key business insights
+- Translating findings into business recommendations
+- Supporting preparation of the final presentation
+
+The project was completed collaboratively, and this repository presents the team's work while clearly documenting my contribution.
+
+---
+
+## 🛠️ Tools & Skills Demonstrated
+
+**Business Intelligence**
+- Microsoft Power BI
+- Dashboard Development
+- KPI Development
+- Business Reporting
+
+**Data Analytics**
+- Data Cleaning
+- Data Transformation
+- Exploratory Analysis
+- Data Visualization
+- Insight Generation
+
+**Data Modelling**
+- Star Schema
+- Fact and Dimension Tables
+- Pickup and Drop-off analysis
+- Consistent KPI calculations
+
+**Business Skills**
+- Business Problem Definition
+- Analytical Storytelling
+- Evidence-based Recommendations
+- Decision Support
+
+---
+
+## 📌 Key Project Outcomes
+
+The analysis demonstrated how structured data preparation, data modelling and Power BI visualization can transform taxi trip records into practical business intelligence.
+
+The findings support potential decisions around:
+
+- Vehicle and driver availability
+- Demand planning
+- Geographic service coverage
+- Curb-access planning
+- Payment behaviour
+- Company performance monitoring
+
+---
+
+## 📊 Dashboard
+
+The interactive Power BI dashboard will be added to this repository.
+
+Dashboard screenshots and the Power BI project file are **coming soon**.
+
+---
+
+## 📄 Project Presentation
+
+The project presentation is available in the [`presentation`](./presentation) folder.
+
+---
+
+## 👥 Team
+
+**SOS Squad 4**
+
+Collaborative Power BI project.
